@@ -4,7 +4,7 @@ Public Class xyzRentalCar
     ' Author:      Holly Eaton
     ' 
     ' Program:     XYZ Rental Car
-    ' 0
+    ' 
     ' Dev Env:     Visual Studio
     ' 
     ' Description:
